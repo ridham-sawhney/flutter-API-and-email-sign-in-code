@@ -55,3 +55,6 @@ The project uses :
 ∙ Source of the news e.g. BBC
 ∙ An image at the right side of the card
 
+
+* go to <a href="https://ridham.site/QuantamIT/#/">(https://ridham.site/QuantamIT/#/)</a>
+* visit to see the ui overview
