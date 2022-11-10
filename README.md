@@ -33,3 +33,25 @@ The API is free to use, all what you have to do is:
 * choose the endpoint that you want and paste the link in the link variable
 * you can add some features like the search, tab to choose the category of the app etc...
 
+## major Functionalitie
+The project uses :
+* Newsapi free account 
+* email validator
+* firebase
+* firebase core
+* firebase auth
+* international phone input 
+
+## Folders
+* Screens: 3 types of screen code individual for sign in , signup and API
+* models: classes to store details of news from API
+* reuseable widget to create widget code reusable 
+* pages for article detail pages
+* services to connect to api
+* components to display newsAPI details
+* ∙ Title
+∙ Description
+∙ PublishedAt
+∙ Source of the news e.g. BBC
+∙ An image at the right side of the card
+
